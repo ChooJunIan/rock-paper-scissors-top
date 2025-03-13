@@ -104,7 +104,3 @@ function playGame () {
     }  
   }
 }
-
-setTimeout(() => {
-  playGame();
-}, 2000); // Delay execution by 100ms
